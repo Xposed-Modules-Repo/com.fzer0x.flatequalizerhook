@@ -1,0 +1,3 @@
+# Flat Equalizer Hook
+
+A Xposed module that unlocks premium features in the Flat Equalizer app, removes ads, and bypasses root detection.
