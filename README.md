@@ -2,7 +2,7 @@
 
 A Xposed module that unlocks premium features in the [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) app, removes ads, and bypasses root detection.
 
-## ⚠️ Please use Latest v1.2-debug - older version not work anymore ⚠️
+## ⚠️ Please use Latest v1.2 ⚠️
 
 ## ✨ Features
 
